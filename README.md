@@ -1,12 +1,12 @@
-### Hi there ! Welcom to the Joy world.👋
+### 👋 Hi there ! Welcom to the Joy world.
 
 This is Joy, very slow to imporve personl skills(any of skills).
 
-## 🔭 Goals from now to someday
+### 🔭 Goals from now to someday
 
 Wish what I am doing now can be my future achievement.
 
-##🌱 I’m currently learning 
+### 🌱 I’m currently learning 
 - HTML5
 - CSS3
 - JavaScript, TypeScript
